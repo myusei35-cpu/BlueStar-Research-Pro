@@ -1,0 +1,8 @@
+{
+  "name": "BlueStar Research Hub",
+  "short_name": "ResearchHub",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#1e293b"
+}
